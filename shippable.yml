@@ -13,7 +13,7 @@ runtime:
 build:
   pre_ci_boot:
     image_name: drydock/c7nodall
-    image_tag: master
+    image_tag: v6.6.4
     pull: true
     
   ci:
